@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WDropper", "WDropper\WDropper.vcxproj", "{67832F9A-16B2-4638-B49D-DA2866B65BF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67832F9A-16B2-4638-B49D-DA2866B65BF1}.Debug|x64.ActiveCfg = Debug|x64
+		{67832F9A-16B2-4638-B49D-DA2866B65BF1}.Debug|x64.Build.0 = Debug|x64
+		{67832F9A-16B2-4638-B49D-DA2866B65BF1}.Debug|x86.ActiveCfg = Debug|Win32
+		{67832F9A-16B2-4638-B49D-DA2866B65BF1}.Debug|x86.Build.0 = Debug|Win32
+		{67832F9A-16B2-4638-B49D-DA2866B65BF1}.Release|x64.ActiveCfg = Release|x64
+		{67832F9A-16B2-4638-B49D-DA2866B65BF1}.Release|x64.Build.0 = Release|x64
+		{67832F9A-16B2-4638-B49D-DA2866B65BF1}.Release|x86.ActiveCfg = Release|Win32
+		{67832F9A-16B2-4638-B49D-DA2866B65BF1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {934ED9D4-CEF8-4EDD-89D9-E2FD57DB2988}
+	EndGlobalSection
+EndGlobal
